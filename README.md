@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg)]
+[![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)]
 <h1 align="center">Hi 👋, I'm 𝐏𝐨𝐨𝐣𝐚.𝐌</h1>
 <h3 align="center">Determined FullStack Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
